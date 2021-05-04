@@ -1,0 +1,20 @@
+.banner_con{
+    width: 100%;
+}
+.list-block-touch-top{
+    margin: 35px 0;
+    font-size: 17px;
+
+}
+.item-list{
+    /*border-style:outset;
+    display:inline*/
+    display: flex;
+}
+.item-inner{
+    display: flex;
+    border-bottom: 1px solid #cccccc;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 100%;
+}
